@@ -1,5 +1,5 @@
 # Excel-Project.
-Objective: Vrinda store wants to create an annual sales report for 2023, so that Vrinda can understand their customers and increase her sales in 2024.
+Objective: Vrinda store wants to create an annual sales report for 2023, so that Vrinda can understand their customers and increase her sales in 2024.	
 Questions Solved: 1.Compare the sales and orders using a single chart.
                   2.Which month got the highest sales and orders?
                   3.Who purchased more men and women in 2023?
